@@ -45,11 +45,8 @@ wheels/
 .vscode/
 .idea/
 
-# macOS
-.DS_mode
-.DS_Store
-.AppleDouble
-.LSOverride
+# Hermes
+.hermes/
 
 # Env variables
 .env
