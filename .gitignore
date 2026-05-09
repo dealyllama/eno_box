@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / faster .py files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+*.pye
+
+# Pyenv
+.pyenv/
+
+# Virtualenv
+.venv/
+.env/
+.venv_env/
+.eno_box_venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spyder: Spyder project virtual environment
+.spyderproject
+.spyder-macOS.yml
+
+#ाइ (some IDEs)
+.vscode/
+.idea/
+
+# macOS
+.DS_mode
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Env variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+```
