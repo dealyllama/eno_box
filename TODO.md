@@ -8,6 +8,8 @@
 |- [x] Research stochastic music generation (see `research/stochastic_music_generation_plan.md`)
 - [ ] Research FM synthesis (see `research/fm_synthesis_research_plan.md`)
 - [ ] Research wavetable synthesis (see `research/wavetable_synthesis_research_plan.md`)
+- [ ] create a research plan for how to use spec kit best with open code and add it here. 
+- [ ] decide if we should use spec kit approaches going forward to manage research tasks etc
 
 ## Phase 1: Foundation
 - [x] Initialize Git repository
