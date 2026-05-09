@@ -16,6 +16,7 @@
 - [x] Push repository to GitHub using gh
 - [x] Create `.gitignore` (Python & `.eno_box_venv` specific)
 - [x] Run `opencode /init` to update `AGENTS.md`
+- [ ] add to section in agents.MD specifying that assertions in unit test must be written by a human and that agents.md may not be updated by an agent although an agent may suggest improvements.
 - [ ] Set up project environment using `uv`
 - [ ] Install dependencies via `uv add`: `ruff`, `pytest`, `spec-kit`
 
