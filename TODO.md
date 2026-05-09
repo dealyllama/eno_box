@@ -9,6 +9,7 @@
 - [ ] Research python / C++ conventions (see `research/python_to_cpp_convention_plan.md`)
 - [ ] Research spec kit best practices (<<REPLACE WITH RESEARCH PLAN LINK>>)
 - [ ] decide if we should use spec kit approaches going forward to manage research tasks etc
+- [ ] Research CrewAI integration 
 
 ## Phase 1: Foundation
 - [x] Initialize Git repository
