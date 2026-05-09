@@ -5,7 +5,7 @@
 - [x] Research useful `opencode` skills and agents for this particular project
 - [x] Research modern `pyproject.toml` configuration for `ruff` and `pytest`
 - [x] Research best practices for GitHub Actions (linting/testing) in 2026
-- [ ] Research stochastic music generation (see `research/stochastic_music_generation_plan.md`)
+|- [x] Research stochastic music generation (see `research/stochastic_music_generation_plan.md`)
 - [ ] Research FM synthesis (see `research/fm_synthesis_research_plan.md`)
 - [ ] Research wavetable synthesis (see `research/wavetable_synthesis_research_plan.md`)
 
