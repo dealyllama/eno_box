@@ -4,10 +4,9 @@
 - [x] Research `spec-kit` implementation patterns and Python integration
 - [x] Research useful `opencode` skills and agents for this particular project
 - [x] Research modern `pyproject.toml` configuration for `ruff` and `pytest`
-- [x] Research best practices for GitHub Actions (linting/testing) in 2026
 - [x] Research FM synthesis (see `research/fm_synthesis_research_plan.md`)
+- [ ] Research wavetable synthesis (see `research/wavetable_synthesis_research_plan.md`)
 - [ ] Research python / C++ conventions (see `research/python_to_cpp_convention_plan.md`)
-- [ ] Create a research plan for how to use spec kit best with open code and add it here.
 - [ ] Research spec kit best practices (<<REPLACE WITH RESEARCH PLAN LINK>>)
 - [ ] decide if we should use spec kit approaches going forward to manage research tasks etc
 
