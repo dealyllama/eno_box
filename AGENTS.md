@@ -20,5 +20,7 @@ Always use `uv run` for all commands to ensure execution within the project's vi
 ## ⚠️ Critical Constraints
 *   **NEVER** use `python`, `pip`, or `pytest` directly. **ALWAYS** use `uv run <command>`.
 *   **NEVER** manually activate the virtual environment; rely on `uv run`.
+*   **NEVER** write an assertion in a unit test.  You may write test harnesses and scafolding and suggest an assertion but you MAY NOT WRITE ONE
+*   **NEVER** update AGENTS.md.  You may suggest change but you MAY NOT MAKE ANY CHANGES EVER.
 *   **Always** follow the `src/` layout pattern when creating new modules or test files.
 *   **Always** include the `#generated-content-danger-will-robinson` tag in all generated documentation (`.md` files) and git commit messages for non-source-code changes.
